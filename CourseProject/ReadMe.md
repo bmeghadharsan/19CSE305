@@ -8,7 +8,7 @@
 -> Suraj S [CB.EN.U4CSE20164]<br>
 
 # Airline Satisfaction Prediction
-## Motivation
+#### Motivation ###
 Airline based travelling is one of the preferred and easiest way for buisnessmen for their quick trips and also used by various other peoples for a convenient long distance travel both domestically and internationally. The competitve industry needs to know the factors, reasoning and understand the data available with them and offer better services to increase their profits and thus by increasing their customer satisfaction.
 **Post pandemic**, the airline industry whose backbone is pimarily movement of people got affected and the losses approximate to around **371 billion dollars** in 2020 and **321 billion dollars** in 2021. The industry which is critical for global transportation of people and goods must be protected and ensured so that we can reduce the impact of the current recession. 
 ## Description of the Inputs and Requirements
